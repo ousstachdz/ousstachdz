@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Oussama
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
      oussama.TACHI@outlook.com
      oussama.TACHI@univ-constantine2.DZ
